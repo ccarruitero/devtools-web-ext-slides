@@ -5,3 +5,7 @@
 .title {
   font-size: 10rem;
 }
+
+.gh-list {
+  list-style: none;
+}
